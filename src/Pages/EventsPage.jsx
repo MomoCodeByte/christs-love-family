@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Calendar, MapPin, Clock, ArrowRight } from 'lucide-react';
 import { events } from '../data/data';
-import EventCard from '../components/EventCard';
+import EventCard from '../Components/EventCard';
 
 const EventsPage = () => {
   // Animation variants
