@@ -382,7 +382,7 @@ const ContactPage = () => {
                     variants={itemVariants}
                   >
                     <p className="text-teal-100 leading-relaxed">
-                      We typically respond to messages within 24 hours during business days. 
+                      We typically respond to messages within 24 hours during service days
                       For urgent matters, please call us directly.
                     </p>
                   </motion.div>
